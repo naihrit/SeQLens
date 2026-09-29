@@ -132,3 +132,17 @@ Enter the following test sequences in the web interface to verify functionality:
 ### Dark Mode Interface & Result Output
 
 `![Dark Mode UI](screenshots/dark_mode.png)`
+
+
+Screenshots of the written code-
+<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/069cda81-bc98-4ddf-9b20-131506dfc038" />
+<img width="1920" height="1080" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/b66b840e-b0cd-4801-b7f9-786b11ad573c" />
+<img width="1920" height="1080" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/8fc00824-4004-4b6d-b9a4-84003bbea950" />
+<img width="1920" height="1080" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/992574c0-e794-4e30-9e9a-11630d827972" />
+<img width="1920" height="1080" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/2e59c67a-937a-4c0a-aac4-de95177dd236" />
+<img width="1920" height="1080" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/8346ebf9-756e-47f8-9694-52ceba00c143" />
+<img width="1920" height="1080" alt="Screenshot (417)" src="https://github.com/user-attachments/assets/0b76b1c2-aebe-4bdf-a945-ecfa81f272d5" />
+<img width="1920" height="1080" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/e24d7ac9-aa2c-4a51-beac-165cd31e6471" />
+<img width="1920" height="1080" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/ec1b7ef0-c8a8-4c56-8102-3564260b0433" />
+
+
