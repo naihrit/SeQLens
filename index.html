@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA INTERPRETER</title>
+    <link rel="stylesheet" href="dna.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>SeQLens</h1>
+        <div class="input">
+          <form id="dnaForm">
+            <label for="dnaInput">Enter DNA Sequence:</label>
+            <input type="text" id="dnaInput" name="dnaInput" required maxlength="18">
+            <button type="submit" id="suB">Interpret</button>
+          </form>
+        </div>
+        <div class="result">
+            <textarea type="text" id="interpretedbox" placeholder="Interpretation" readonly>DNA strand is formed of combination of Nitrogen bases Adenine (A), Guanine(G), Thymine(T), Cytosine(C), please enter suitable dna sequence to find its transcripted RNA and Possible mutations------</textarea>
+        </div>
+        <button id="mode">Change Mode</button>
+    </div>
+
+
+
+    <script src="dna.js"></script>
+</body>
+
+</html>

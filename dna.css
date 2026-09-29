@@ -1,0 +1,63 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20250906/pngtree-a-golden-dna-helix-with-particles-and-light-effects-around-it-image_18879220.webp);
+    background-size: cover;
+}
+
+
+.dark-mode{
+    background-image: url(https://img.magnific.com/premium-photo/dna-is-grey-with-polygon-line-black-abstraction-background-low-polygonal-space-with-connecting-lines-dots-modern-science-background_717906-21392.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    color: white;
+    .container{
+        background-image: url(https://i.pinimg.com/474x/5b/20/69/5b2069542183f65279e006de59d9513d.jpg);
+    }
+}
+.light-mode{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20250906/pngtree-a-golden-dna-helix-with-particles-and-light-effects-around-it-image_18879220.webp);
+    color: black;
+    background-size: cover;
+    .container{
+        background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230416/pngtree-sky-manga-style-background-image_2371262.jpg");
+    }
+}
+
+.container {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230416/pngtree-sky-manga-style-background-image_2371262.jpg");
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 15px;
+}
+
+#interpretedbox{
+    width: 85%;
+    height: 280px;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    border-sizing: border-box;
+
+}
+
+#dnaInput{
+    width: 180px;
+}
